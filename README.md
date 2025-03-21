@@ -6,7 +6,6 @@ I'm Mustakim. A Self Taught Data Analyst & SQL Enthusiast
 ## Some Background Info
 
 - 🧑‍💻 CS Graduate & SEO Executive with 4+ years of Professional Experience
-- 📊 Pivot my career to Data Analyst in 2025
 - 📈 Loves working with data to solve real world business problems
 - 💡 Always learning new skills (Currently self-teaching SQL)
 - 🛠️ My Favourite Tools - Microsoft Excel, One Note, Toggl 
